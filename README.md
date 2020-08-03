@@ -1,5 +1,8 @@
 # Counting Sentences
 
+## Updating for an example
+## sup yall 
+
 ## Objectives
 
 1. Practice defining instance methods on a class.
